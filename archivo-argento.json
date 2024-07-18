@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "pepe",
+    "apellido": "argento",
+    "edad": 44
+  },
+  {
+    "nombre": "moni",
+    "apellido": "argento",
+    "edad": 38
+  },
+  {
+    "nombre": "paola",
+    "apellido": "argento",
+    "edad": 18
+  },
+  {
+    "nombre": "coki",
+    "apellido": "argento",
+    "edad": 16
+  },
+  {
+    "nombre": "fatiga",
+    "apellido": "argento",
+    "edad": 7
+  }
+]
