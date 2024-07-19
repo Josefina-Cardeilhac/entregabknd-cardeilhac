@@ -1,11 +1,20 @@
 [
   {
     "id": 1,
-    "title": "Francia",
-    "description": "este es un nuevo producto test",
-    "price": 200,
+    "title": "Iphone 14 128gb",
+    "description": "camara 12+12mp",
+    "price": 2075400,
     "img": "Sin imagen",
-    "code": "abc124",
-    "stock": 25
+    "code": "i14",
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "title": "Iphone 13 64gb",
+    "description": "camara 8+8mp",
+    "price": 560000,
+    "img": "Sin imagen",
+    "code": "i13",
+    "stock": 15
   }
 ]
